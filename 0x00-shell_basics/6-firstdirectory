@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -l --numeric-uid-gid -a
+mkdir /tmp/my_first_directory
+
